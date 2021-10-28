@@ -2,7 +2,7 @@
 
 ## About the Project
 
-A todo application written with frontend in React and backend in Express.
+A todo application written with frontend in React and backend in Express. For live version [click](https://fathomless-sierra-97318.herokuapp.com/) here.
 
 ### Technologies Used
 
